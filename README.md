@@ -1,9 +1,10 @@
-### api-insoftar
+## api-insoftar
 
-##Docs Swagger
+### Docs Swagger
+  Link de la documentacion del api
   http://localhost:8080/swagger-ui.html#/
   
-## BD Mysql
+### BD Mysql
 
 1. En el archivo /src/main/resources/application.properties
 
@@ -11,4 +12,6 @@
 
 3. En el archivo /src/main/resources/import.sql
 
-4. Se encuentra unos insert para llenar la tabla con Data de prueba. 
+4. Se encuentra unos insert para llenar la tabla con Data de prueba.
+
+
